@@ -1,1 +1,1 @@
-# recipes
+Main index page with a few links to recipes 
